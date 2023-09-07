@@ -1,3 +1,5 @@
+"use client";
+
 import MainLayout from "@/app/layout/MainLayout";
 import CheckOutItem from "@/app/(components)/CheckOutItem";
 

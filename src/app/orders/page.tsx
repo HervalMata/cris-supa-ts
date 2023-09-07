@@ -1,3 +1,5 @@
+"use client";
+
 import MainLayout from "@/app/layout/MainLayout";
 import {CiDeliveryTruck} from "react-icons/ci";
 import Link from "next/link";

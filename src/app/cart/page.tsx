@@ -1,3 +1,5 @@
+"use client";
+
 import MainLayout from "@/app/layout/MainLayout";
 import CartItem from "@/app/(components)/CartItem";
 import SimilarProducts from "@/app/(components)/SimilarProducts";
