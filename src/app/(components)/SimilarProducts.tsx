@@ -1,7 +1,6 @@
 "use client";
 
 import React from "react";
-import Link from "next/link";
 import Product from "@/app/(components)/Products";
 import {BiLoader} from "react-icons/bi";
 
