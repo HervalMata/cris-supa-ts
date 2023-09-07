@@ -1,5 +1,10 @@
 import MainLayout from "@/app/layout/MainLayout";
+import CarouselComp from "@/app/(components)/CarouselComps";
 
 export default function Home() {
-  return <MainLayout>cool</MainLayout>
+  return (
+      <MainLayout>
+        <CarouselComp />
+      </MainLayout>
+  );
 }
